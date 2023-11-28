@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Evento - Event Management App
+
+[Live Demo](https://evento-abhie-tripathi.vercel.app/)
+
+## Overview
+
+Evento is an Event Management App built using Next.js 14 with the App Router framework for React. It leverages server-side rendering (SSR) provided by Next.js, ensuring efficient performance and improved SEO for the application.
+
+## Server-Side Rendering (SSR)
+
+Next.js provides server-side rendering, allowing pages to be rendered on the server before being sent to the client. This improves performance and ensures that search engines can easily index the content. Server-side rendering is beneficial for dynamic and personalized content, providing a faster initial page load.
 
 ## Getting Started
 
